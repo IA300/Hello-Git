@@ -8,3 +8,6 @@ git checkout main切换到主分支，
 使用git merge dev合并出现冲突，
 vi README.md编辑冲突文件，
 保存后commit提交。
+
+https://ia300.github.io/Hello-Git/
+
