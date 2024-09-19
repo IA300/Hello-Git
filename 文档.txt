@@ -1,0 +1,10 @@
+坑：
+
+合并冲突：
+主分支的README.md文件初始内容为空,
+使用git checkout切换到dev分支，
+在dev分支中echo创建一个同名的有内容的文件，
+git checkout main切换到主分支，
+使用git merge dev合并出现冲突，
+vi README.md编辑冲突文件，
+保存后commit提交。
