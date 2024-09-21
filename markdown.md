@@ -89,13 +89,13 @@ $$F = ma$$
 
 以下是一些常见的数学公式
 
-求和公式：$$\sum_{i=1}^{n}i$$
+$$求和公式：\sum_{i=1}^{n}i
 
-积分公式：$$\int_{a}^{b}f(x)dx$$
+积分公式：\int_{a}^{b}f(x)dx
 
-平方根：$$\sqrt{x}$$
+平方根：\sqrt{x}
 
-分式：$$\frac{a}{b}$$
+分式：\frac{a}{b}$$
 
 $$x=vt; a=\frac{\Delta v}{\Delta t}; x=\frac{1}{2}at^2; v^2-v_0^2=2ax; \\
 F=ma; E_k=\frac{1}{2}mv^2; E_p=mgh; p=mv; I=F\Delta t; \\
