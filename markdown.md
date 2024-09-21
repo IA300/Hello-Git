@@ -96,70 +96,20 @@ $$F = ma$$
 平方根：$\sqrt{x}$
 
 分式：$\frac{a}{b}$
-$$
-x=vt; a=\frac{\Delta v}{\Delta t}; x=\frac{1}{2}at^2; v^2-v_0^2=2ax; \\
-F=ma; E_k=\frac{1}{2}mv^2; E_p=mgh; p=mv; I=F\Delta t; \\
-F=m\frac{v^2}{r}=m\omega^2r; F=G\frac{m_1m_2}{r^2} ;F=k\frac{q_1q_2}{r^2}; \\
-E=k\frac{Q}{r^2}; U=Ed ;U_{AB}=\phi_A-\phi_B; h\nu=W_0+E_k; \\
-C=\frac{\epsilon S}{4\pi kd};\\
-GM=gR^2; v=\sqrt{gr};\\
-e^x=\frac{1}{0!}x^0+\frac{1}{1!} x+\frac{1}{2!}x^2+\frac{1}{3!}x^3+···+\frac{1}{n!}x^n; \\
-sh\ x=\frac{e^x-e^{-x}}{2};\\
-ch\ x=\frac{e^x+e^{-x}}{2};\\
-ch\ x=\frac{e^x-e^{-x}}{e^x+e^{-x}};\\
-sin\ 2x=2sin\ x\ cos\ x;\\
-e^{i\theta}=cos\ \theta+isin\ \theta;\\
-\sum_{i=1}^{n}i=\frac{n(n+1)}{2};\\
-\sum_{i=1}^{n}i^2=\frac{n(n+1)(2n+1)}{6};\\
-\sum_{i=1}^{n}i^3=\frac{n^2(n+1)^2}{4};\\
-大写：\\
-\Alpha表示 Α\\
-\Beta表示 Β\\
-\Gamma表示 Γ\\
-\Delta表示 Δ\\
-\Epsilon表示 Ε\\
-\Zeta表示 Ζ\\
-\Eta表示 Η\\
-\Theta表示 Θ\\
-\Iota表示 Ι\\
-\Kappa表示 Κ\\
-\Lambda表示 Λ\\
-\Mu表示 Μ\\
-\Nu表示 Ν\\
-\Xi表示 Ξ\\
-\Omicron表示 Ο\\
-\Pi表示 Π\\
-\Rho表示 Ρ\\
-\Sigma表示 Σ\\
-\Tau表示 Τ\\
-\Upsilon表示 Υ\\
-\Phi表示 Φ\\
-\Chi表示 Χ\\
-\Psi表示 Ψ\\
-\Omega表示 Ω\\
-小写：\\
-\alpha表示 α\\
-\beta表示 β\\
-\gamma表示 γ\\
-\delta表示 δ\\
-\epsilon表示 ε\\
-\zeta表示 ζ\\
-\eta表示 η\\
-\theta表示 θ\\
-\iota表示 ι\\
-\kappa表示 κ\\
-\lambda表示 λ\\
-\mu表示 μ\\
-\nu表示 ν\\
-\xi表示 ξ\\
-\omicron表示 ο\\
-\pi表示 π\\
-\rho表示 ρ\\
-\sigma表示 σ\\
-\tau表示 τ\\
-\upsilon表示 υ\\
-\phi表示 φ\\
-\chi表示 χ\\
-\psi表示 ψ\\
-\omega表示 ω\\
-$$
+
+$$x=vt; a=\frac{\Delta v}{\Delta t}; x=\frac{1}{2}at^2; v^2-v_0^2=2ax; \\$$
+$$F=ma; E_k=\frac{1}{2}mv^2; E_p=mgh; p=mv; I=F\Delta t; \\$$
+$$F=m\frac{v^2}{r}=m\omega^2r; F=G\frac{m_1m_2}{r^2} ;F=k\frac{q_1q_2}{r^2}; \\$$
+$$E=k\frac{Q}{r^2}; U=Ed ;U_{AB}=\phi_A-\phi_B; h\nu=W_0+E_k; \\$$
+$$C=\frac{\epsilon S}{4\pi kd};\\$$
+$$GM=gR^2; v=\sqrt{gr};\\$$
+$$e^x=\frac{1}{0!}x^0+\frac{1}{1!} x+\frac{1}{2!}x^2+\frac{1}{3!}x^3+···+\frac{1}{n!}x^n; \\$$
+$$sh\ x=\frac{e^x-e^{-x}}{2};\\$$
+$$ch\ x=\frac{e^x+e^{-x}}{2};\\$$
+$$ch\ x=\frac{e^x-e^{-x}}{e^x+e^{-x}};\\$$
+$$sin\ 2x=2sin\ x\ cos\ x;\\$$
+$$e^{i\theta}=cos\ \theta+isin\ \theta;\\$$
+$$\sum_{i=1}^{n}i=\frac{n(n+1)}{2};\\$$
+$$\sum_{i=1}^{n}i^2=\frac{n(n+1)(2n+1)}{6};\\$$
+$$\sum_{i=1}^{n}i^3=\frac{n^2(n+1)^2}{4};\\$$
+
