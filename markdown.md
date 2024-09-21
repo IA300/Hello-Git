@@ -97,19 +97,19 @@ $$F = ma$$
 
 分式：$\frac{a}{b}$
 
-$$x=vt; a=\frac{\Delta v}{\Delta t}; x=\frac{1}{2}at^2; v^2-v_0^2=2ax; \\$$
-$$F=ma; E_k=\frac{1}{2}mv^2; E_p=mgh; p=mv; I=F\Delta t; \\$$
-$$F=m\frac{v^2}{r}=m\omega^2r; F=G\frac{m_1m_2}{r^2} ;F=k\frac{q_1q_2}{r^2}; \\$$
-$$E=k\frac{Q}{r^2}; U=Ed ;U_{AB}=\phi_A-\phi_B; h\nu=W_0+E_k; \\$$
-$$C=\frac{\epsilon S}{4\pi kd};\\$$
-$$GM=gR^2; v=\sqrt{gr};\\$$
-$$e^x=\frac{1}{0!}x^0+\frac{1}{1!} x+\frac{1}{2!}x^2+\frac{1}{3!}x^3+···+\frac{1}{n!}x^n; \\$$
-$$sh\ x=\frac{e^x-e^{-x}}{2};\\$$
-$$ch\ x=\frac{e^x+e^{-x}}{2};\\$$
-$$ch\ x=\frac{e^x-e^{-x}}{e^x+e^{-x}};\\$$
-$$sin\ 2x=2sin\ x\ cos\ x;\\$$
-$$e^{i\theta}=cos\ \theta+isin\ \theta;\\$$
-$$\sum_{i=1}^{n}i=\frac{n(n+1)}{2};\\$$
-$$\sum_{i=1}^{n}i^2=\frac{n(n+1)(2n+1)}{6};\\$$
-$$\sum_{i=1}^{n}i^3=\frac{n^2(n+1)^2}{4};\\$$
+$$x=vt; a=\frac{\Delta v}{\Delta t}; x=\frac{1}{2}at^2; v^2-v_0^2=2ax; \\
+F=ma; E_k=\frac{1}{2}mv^2; E_p=mgh; p=mv; I=F\Delta t; \\
+F=m\frac{v^2}{r}=m\omega^2r; F=G\frac{m_1m_2}{r^2} ;F=k\frac{q_1q_2}{r^2}; \\
+E=k\frac{Q}{r^2}; U=Ed ;U_{AB}=\phi_A-\phi_B; h\nu=W_0+E_k; \\
+C=\frac{\epsilon S}{4\pi kd};\\
+GM=gR^2; v=\sqrt{gr};\\$$
+e^x=\frac{1}{0!}x^0+\frac{1}{1!} x+\frac{1}{2!}x^2+\frac{1}{3!}x^3+···+\frac{1}{n!}x^n; \\
+sh\ x=\frac{e^x-e^{-x}}{2};\\
+ch\ x=\frac{e^x+e^{-x}}{2};\\
+ch\ x=\frac{e^x-e^{-x}}{e^x+e^{-x}};\\
+sin\ 2x=2sin\ x\ cos\ x;\\
+e^{i\theta}=cos\ \theta+isin\ \theta;\\
+\sum_{i=1}^{n}i=\frac{n(n+1)}{2};\\
+\sum_{i=1}^{n}i^2=\frac{n(n+1)(2n+1)}{6};\\
+\sum_{i=1}^{n}i^3=\frac{n^2(n+1)^2}{4};\\$$
 
